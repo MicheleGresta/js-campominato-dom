@@ -41,9 +41,13 @@ header {
 
 .squares{
     aspect-ratio: 1/1;
-    border: 1px solid blue;
+    border: 1px solid rgb(191, 191, 191);
     align-items: center;
     height: auto;
+    font-size: 4rem;
+    color: white;
+    display: flex;
+    justify-content: center;
 }
 
 .toggleColor{
